@@ -1,0 +1,117 @@
+body{
+    background-image: url('./abstract-flowing-neon-wave-background_53876-101942.webp') ;
+    color: aliceblue;
+    padding-left: 100px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.title h1{
+    color: red;
+}
+
+#head{
+    color: white
+    
+    font-family: 'Atma', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', cursive;
+    padding: 20px;
+    font-size: px;
+    border-radius: 10px;
+}
+#head:hover{
+
+    color: 
+    rgb(255, 255, 255);
+    background-color: darkmagenta;
+ 
+}
+.title {
+    display: flex;
+}
+
+.services{
+     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+    padding: 20px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 500px;
+    ba
+}
+
+#serviceh2{
+    display: inline;
+}
+
+.contact-info{
+    margin: 20px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+    padding: 10px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 800px;
+    
+}
+
+.wrapper{
+    display: flex, inline;
+    flex-direction: column;
+    /* float: left; */
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.column{
+
+ float: left;
+  width: 30%;
+  padding: 0 10px;
+}
+
+.card-element{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+    padding: 20px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 800px;
+    height: auto;
+
+    }
+    #myimg{
+        align-content: center;
+    }
+
+
+    .myimage{
+        align-items: center;
+    }
+
+    .contact{
+        align-items: center;
+    }
+   .About-me{
+    font-family: 'Montserrat', sans-serif;
+    }
+    .message{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 5px;
+}
+.contact{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.img{
+    backgroung:size cover
+}
